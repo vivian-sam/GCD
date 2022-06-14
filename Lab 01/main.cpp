@@ -1,6 +1,3 @@
-// Student number: 40785157 UBC
-// Name: Vivian Sam
-
 #include "gcd.h";
 #include <iostream>;
 
